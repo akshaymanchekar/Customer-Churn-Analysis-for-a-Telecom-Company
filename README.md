@@ -123,7 +123,7 @@ This project is developed using **R** in **RStudio**, focusing on visualizing te
 ## 📸 **Project Visualizations**  
 
 ### **Logistic Regression Insights**  
-![Logistic Regression Insights](images/logistic_regression.png)  
+![image](https://github.com/user-attachments/assets/bb2cbbdb-ed71-4b68-bf4f-12d42f339334)
 
 ---
 
