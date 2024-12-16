@@ -1,6 +1,7 @@
 # 📞💡 Customer Churn Analysis for a Telecom Company  
 
-![Dashboard Banner](images/customer_churn_banner.png)  
+![Customer Churn Analysis_Cover Photo_1](https://github.com/user-attachments/assets/d3317168-12e6-46ef-adb3-fdbce75f9f92)
+
 
 ## 🌟 **Project Overview**  
 The **Customer Churn Analysis Dashboard** utilizes advanced machine learning and data analysis techniques to:  
